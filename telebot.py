@@ -25,7 +25,6 @@ load_dotenv()
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 
 
-
 # 1. 텔레그램 봇 TELEGRAM_CHAT_ID 정보 알아내기
 
 
